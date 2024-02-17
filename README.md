@@ -1,0 +1,2 @@
+# VSD_mini_Squadron_Research_Intern
+getting started with micropython
