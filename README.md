@@ -10,3 +10,9 @@ getting started with micropython for RISC-V CH32V003 MCU development board.
 5.  ![https://embeddedinn.com/articles/tutorial/Linux-Python-on-RISCV-using-QEMU-from-scratch/]
 ## tools required:
 Mournriver for GNU-RISC-5 toolchain in linux OS
+
+## sample code:
+
+```python
+W = tf.get_variable("W", [1,2,3,4], initializer = ...)
+```
