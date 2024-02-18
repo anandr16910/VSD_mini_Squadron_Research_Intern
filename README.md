@@ -1,5 +1,7 @@
 # VSD_mini_Squadron_Research_Intern
 getting started with micropython for RISC-V CH32V003 MCU development board.
+## Reference link as provided:
+[https://iotdesignpro.com/projects/getting-started-with-micropython-program-esp32-using-micropython]
 ## Reference links:
 1.  ![https://github.com/r4d10n/micropython-wch-ch32v307/blob/master/ports/wch/main.c#L10]
 2.  ![https://blog.adafruit.com/2022/05/06/micropython-port-for-the-wch-ch32v307-risc-v-microcontroller-riscv-micropython-micropython/]
