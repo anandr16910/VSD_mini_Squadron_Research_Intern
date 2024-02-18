@@ -14,5 +14,5 @@ Mournriver for GNU-RISC-5 toolchain in linux OS
 ## sample code:
 
 ```python
-W = tf.get_variable("W", [1,2,3,4], initializer = ...)
+
 ```
