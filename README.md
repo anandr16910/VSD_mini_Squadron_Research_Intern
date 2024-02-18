@@ -16,3 +16,14 @@ Mournriver for GNU-RISC-5 toolchain in linux OS
 ```python
 
 ```
+## sample diagram:
+here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
