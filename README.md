@@ -11,6 +11,11 @@ getting started with micropython for RISC-V CH32V003 MCU development board.
 ## tools required:
 Mounriver for GNU-RISC-5 toolchain in linux OS
 
+## Feasibility for this project:
+Running and flashing this microcontroller board with MicroPython requires firmware associated with this part number.
+unfortunately, [https://micropython.org/download/] does not have firmware for this Microcontroller.
+May not be feasible with micropython.
+
 ## sample code:
 
 ```python
