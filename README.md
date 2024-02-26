@@ -3,6 +3,7 @@
 Display of text or picture grayscale of board contents to a web server or dashboard using grafana.
 
 1.serial window
+
 2.visualization using grafana
 
 
