@@ -1,4 +1,5 @@
-##Internship Research project
+##Internship Research project:
+
 Display of text or picture grayscale of board contents to a web server or dashboard using grafana.
 
 1.serial window
