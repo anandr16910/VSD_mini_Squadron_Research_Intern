@@ -7,7 +7,7 @@ Display of text or picture grayscale of board contents to a web server or dashbo
 
 
 #
-#2nd project 
+# 2nd project (may not be feasible at the moment)
 # VSD_mini_Squadron_Research_Intern
 getting started with micropython for RISC-V CH32V003 MCU development board.
 ## Reference link as provided:
