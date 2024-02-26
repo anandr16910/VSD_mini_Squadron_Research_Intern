@@ -1,3 +1,12 @@
+##Internship Research project
+Display of text or picture grayscale of board contents to a web server or dashboard using grafana.
+
+1.serial window
+2.visualization using grafana
+
+
+#
+#2nd project 
 # VSD_mini_Squadron_Research_Intern
 getting started with micropython for RISC-V CH32V003 MCU development board.
 ## Reference link as provided:
