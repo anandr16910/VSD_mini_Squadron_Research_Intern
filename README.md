@@ -6,8 +6,17 @@ Display of text or picture grayscale of board contents to a web server or dashbo
 
 2.visualization using grafana
 
+Block diagram:
+UART send or receive (TX/Rx)--->
+terminal window ---->
+grafana dashboard (display of contents by URL link)
+(Available to other users connected to internet).--->
+control of led or blinking rate change by user in grafana dashboard--->
+UART serial monitor --->
+VSD mini board peripherals (LED).
 
-#
+
+
 # 2nd project (may not be feasible at the moment)
 # VSD_mini_Squadron_Research_Intern
 getting started with micropython for RISC-V CH32V003 MCU development board.
