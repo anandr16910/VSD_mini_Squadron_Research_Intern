@@ -1,6 +1,8 @@
 ## Internship Research project:
 
-Display of text or picture grayscale of board contents to a web server or dashboard using grafana.
+Display of text or picture (grayscale) from mini board to a web server or dashboard using grafana using Influxdb Server.
+
+project can be accomplished using:
 
 1.serial window
 
